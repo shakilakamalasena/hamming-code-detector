@@ -13,6 +13,9 @@ function App() {
                 <HammingEncoder />
                 <HammingDecoder />
             </main>
+            <footer>
+                <p>&copy; Shakila Kamalasena</p>
+            </footer>
         </div>
     );
 }
